@@ -542,6 +542,16 @@ sie zu erweitern und zu vermehren, machen diese unbedingte
 Vollständigkeit nicht allein tunlich, sondern auch notwendig. Tecum
 habita et noris, quam sit tibi curta supellex 1). Persius.
 
+依我看来，如果读者能看到按照提出的方案完整且恒久地完成一项伟大而重要的工作的远景，这对于吸引读者将自己的努力与作者的努力结合起来，当会有不小的作用。
+
+现在的状况是，按照我们要在这里给出的概念，形而上学是所有科学中唯一可以许诺在短时间内，且只需较少但需联合的努力就能达到这种完满的科学；以至于留给后世的，除了以教学的方式按照他们的意图来布置一切之外，在内容上丝毫不能有所增益。
+
+因为它（形而上学）无非是纯粹理性对其所有所有物（Besitze） 系统整理过的清单（Inventarium）。在这里，没有什么能逃过我们的眼睛，因为理性完全从自身产生的东西，是无法隐藏的；一旦我们发现了它的共同原则，理性自己就会把它带到光天化日之下。
+
+这种知识的完全统一性——即完全出自纯粹概念，而不受任何经验，甚至不受某种能导向特定经验的特殊直观的影响，从而既不能扩大也不能增加其内容——使得这种无条件的完整性不仅是可行的，而且是必然的。
+
+“反求诸己，方知家底菲薄。”（Tecum habita et noris, quam sit tibi curta supellex） —— 佩尔西乌斯（Persius）
+
 1\. \"Sieh dich in deiner eigenen Behausung um, und du wirst erkennen,
 wie einfach deine Ausstattung ist\".
 
@@ -562,6 +572,14 @@ wurde, so wird überdem hier gefordert, daß eben dasselbe auch in
 Ansehung der Analysis geschehe, welches alles leicht und mehr
 Unterhaltung als Arbeit ist.
 
+1. “审视你自己的居所，你就会认识到你的陈设是多么简陋。”
+
+我希望能以《自然形而上学》为题，亲自提供这样一个纯粹（思辨）理性的体系。这一体系虽然在篇幅上还不及本书（《批判》）的一半，但在内容上却要比这本《批判》丰富得多。因为《批判》必须首先阐明其（形而上学）可能性的源泉和条件，并且必须去清理和平整一块完全杂草丛生的土地。
+
+在这里，我期待我的读者具有法官的耐心和公正；但在那里，我期待读者表现出合作者的顺从与协助。
+
+因为，尽管关于该体系的所有原则在《批判》中都已陈述得十分完整，但要确立体系本身的详尽性，还需要它不缺失任何派生概念。这些概念无法被先天地（a priori）全盘估量，而必须逐渐地去搜寻。同样，既然在那边（指《批判》）概念的全部综合（Synthesis）都已经穷尽，那么此外在这里（指《自然形而上学》）就要求在分析（Analysis）方面也做到同样的事。而这一切都是轻松的，与其说是工作，不如说是一种消遣（Unterhaltung）。
+
 Ich habe nur noch einiges in Ansehung des Drucks anzumerken. Da der
 Anfang desselben etwas verspätet war, so konnte ich nur etwa die Hälfte
 der Aushängebogen zu sehen bekommen, in denen ich zwar einige, den Sinn
@@ -572,6 +590,14 @@ ist so, nach Art einer Tafel, angestellt, daß alles, was zur Thesis
 gehört, auf der linken, was aber zur Antithesis gehört, auf der rechten
 Seite immer fortläuft, welches ich darum so anordnete, damit Satz und
 Gegensatz desto leichter miteinander verglichen werden könnte.
+
+关于印刷方面，我只剩下几点要说明。
+
+由于开始印刷的时间稍有延误，所以我只看到了大约一半的校样（Aushängebogen）。虽然我在其中发现了一些印刷错误，但都不至于混淆文意；
+
+唯独第379页倒数第4行的那个错误除外，那里必须把“怀疑的”（skeptisch）读作“特定的”（spezifisch）。
+
+至于第425页至461页的《纯粹理性的二律背反》，我是按照图表的形式编排的：凡属于正题（Thesis）的内容都印在左边，凡属于反题（Antithesis）的内容都一直印在右边。我之所以这样安排，是为了能更方便地将命题与反命题（Satz und Gegensatz）加以对照比较。
 
 Inhalt
 
@@ -590,6 +616,38 @@ II. Transzendentale Methodenlehre
     2. Hauptstück. Der Kanon der reinen Vernunft.
     3. Hauptstück. Die Architektonik der reinen Vernunft
     4. Hauptstück. Die Geschichte der reinen Vernunft\
+
+目录
+
+导言
+
+第一部：先验要素论 (Transzendentale Elementarlehre)
+
+第一部分：先验感性论 (Transzendentale Ästhetik)
+
+第一节：论空间
+
+第二节：论时间
+
+第二部分：先验逻辑 (Transzendentale Logik)
+
+第一卷：先验分析论 (Transzendentale Analytik)
+
+（分为两篇及其下各章和各节）
+
+第二卷：先验辩证论 (Transzendentale Dialektik)
+
+（分为两篇及其下各章和各节）
+
+第二部：先验方法论 (Transzendentale Methodenlehre)
+
+第一章：纯粹理性的训练 (Die Disziplin der reinen Vernunft)
+
+第二章：纯粹理性的法规 (Der Kanon der reinen Vernunft)
+
+第三章：纯粹理性的建筑术 (Die Architektonik der reinen Vernunft)
+
+第四章：纯粹理性的历史 (Die Geschichte der reinen Vernunft)
 
 Einleitung
 
